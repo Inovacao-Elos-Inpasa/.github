@@ -16,7 +16,7 @@
 
 ## Quem somos
 
-A **Elos Inpasa** é o time de Inovação e Automação da **Inpasa Agroindustrial** — a maior biorrefinaria de milho da América Latina, com operações no Brasil e no Paraguai.
+Somos o **Departamento de Inovação da Elos Inpasa** — uma empresa do grupo **Inpasa Agroindustrial**, a maior biorrefinaria de milho da América Latina, com operações no Brasil e no Paraguai.
 
 Nossa missão é simples: **eliminar o trabalho manual repetitivo** e transformar processos operacionais em fluxos inteligentes, rápidos e auditáveis — para que as pessoas foquem no que realmente importa.
 
@@ -28,9 +28,9 @@ Fazemos isso combinando **RPA**, **Agentes de IA**, **Desenvolvimento de Softwar
 
 <div align="center">
 
-| 🤖 RPA & Automação | 🧠 Agentes de IA | 📊 Dados & Relatórios | 🔗 Integrações |
+| 🤖 RPA & Automação | 🧠 Agentes de IA | 🗄️ Engenharia de Dados | 🔗 Integrações |
 |---|---|---|---|
-| Robôs que operam sistemas legados sem API | Agentes que leem, interpretam e decidem | Pipelines de tratamento e dashboards Power BI | Conexão entre sistemas corporativos distintos |
+| Automações Web, reconhecimento de imagem e integrações via API | Agentes que leem, interpretam e tomam decisões autônomas | Pipelines de tratamento e integração de dados corporativos | Conexão e orquestração entre sistemas distintos |
 
 </div>
 
@@ -38,16 +38,16 @@ Fazemos isso combinando **RPA**, **Agentes de IA**, **Desenvolvimento de Softwar
 
 ## Áreas atendidas
 
-Atuamos de forma transversal na companhia, atendendo **16 áreas clientes**:
+Atuamos de forma transversal na companhia, atendendo **15 áreas clientes**:
 
 <div align="center">
 
 | | | | |
 |---|---|---|---|
-| 📊 Atualizações Power BI | 🚚 CPL — Centro de Processamento Logístico | 🤝 Comercial | 🌍 Comércio Exterior |
-| 📒 Contabilidade | 💸 Contas a Pagar e Tesouraria | 📥 Contas a Receber | 📈 Controle Comercial |
-| 🏦 Crédito e Cobrança | 💰 Custos | 👥 Departamento Pessoal | 🧾 Faturamento |
-| 🗂️ Fiscal | 🚛 Logística | 📦 Suprimentos | 🖥️ TI Inpasa |
+| 🚚 CPL — Centro de Processamento Logístico | 🤝 Comercial | 🌍 Comércio Exterior | 📒 Contabilidade |
+| 💸 Contas a Pagar e Tesouraria | 📥 Contas a Receber | 📈 Controle Comercial | 🏦 Crédito e Cobrança |
+| 💰 Custos | 👥 Departamento Pessoal | 🧾 Faturamento | 🗂️ Fiscal |
+| 🚛 Logística | 📦 Suprimentos | 🖥️ TI Inpasa | |
 
 </div>
 
@@ -59,9 +59,9 @@ Atuamos de forma transversal na companhia, atendendo **16 áreas clientes**:
 
 | Categoria | Tecnologias |
 |---|---|
-| 🤖 **RPA & Automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
-| 🧠 **Agentes de IA** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white) |
-| 📊 **Dados** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 💻 **Desenvolvimento** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) |
+| 🧠 **Agentes de IA** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) |
+| 🗄️ **Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 </div>
 
@@ -81,7 +81,3 @@ Atuamos de forma transversal na companhia, atendendo **16 áreas clientes**:
 <sub>Equipe de Automação & Inovação — Elos Inpasa</sub>
 
 </div>
-
-
-
-
