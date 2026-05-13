@@ -38,7 +38,7 @@ Fazemos isso combinando **RPA**, **Agentes de IA**, **Desenvolvimento de Softwar
 
 ## Áreas atendidas
 
-Atuamos de forma transversal na companhia, atendendo **16 áreas clientes**:
+Atuamos de forma transversal na companhia, atendendo **15 áreas clientes**:
 
 <div align="center">
 
