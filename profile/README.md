@@ -44,7 +44,7 @@ Atuamos de forma transversal na companhia, atendendo **16 áreas clientes**:
 
 | | | | |
 |---|---|---|---|
-| 📊 Atualizações Power BI | 🚚 CPL — Centro de Processamento Logístico | 🤝 Comercial | 🌍 Comércio Exterior |
+| 🚚 CPL — Centro de Processamento Logístico | 🤝 Comercial | 🌍 Comércio Exterior |
 | 📒 Contabilidade | 💸 Contas a Pagar e Tesouraria | 📥 Contas a Receber | 📈 Controle Comercial |
 | 🏦 Crédito e Cobrança | 💰 Custos | 👥 Departamento Pessoal | 🧾 Faturamento |
 | 🗂️ Fiscal | 🚛 Logística | 📦 Suprimentos | 🖥️ TI Inpasa |
