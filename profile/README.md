@@ -30,7 +30,7 @@ Fazemos isso combinando **RPA**, **Agentes de IA**, **Desenvolvimento de Softwar
 
 | 🤖 RPA & Automação | 🧠 Agentes de IA | 🗄️ Engenharia de Dados | 🔗 Integrações |
 |---|---|---|---|
-| Robôs que operam sistemas legados sem API | Agentes que leem, interpretam e decidem | Pipelines de tratamento e integração de dados | Conexão entre sistemas corporativos distintos |
+| Automações Web, reconhecimento de imagem e integrações via API | Agentes que leem, interpretam e tomam decisões autônomas | Pipelines de tratamento e integração de dados corporativos | Conexão e orquestração entre sistemas distintos |
 
 </div>
 
@@ -59,10 +59,9 @@ Atuamos de forma transversal na companhia, atendendo **15 áreas clientes**:
 
 | Categoria | Tecnologias |
 |---|---|
-| 🤖 **RPA & Automação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
-| 💻 **Desenvolvimento** | ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| 💻 **Desenvolvimento** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) |
 | 🧠 **Agentes de IA** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) |
-| 🗄️ **Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| 🗄️ **Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
 
 </div>
 
