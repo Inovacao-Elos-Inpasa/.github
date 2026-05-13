@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./elos-inpasa-1.png" alt="Elos Inpasa Inovação" width="100%"/>
+  <img src="./profile/elos-inpasa-1.png" alt="Elos Inpasa Inovação" width="100%"/>
 </div>
 
 <br>
